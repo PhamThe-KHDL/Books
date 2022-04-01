@@ -42,3 +42,10 @@ Tổng Hợp Các Sách Về ML, DL, DS, AI,...
 
 
 
+## Thực hiện
+
+```
+Phạm Đức Thể
+
+Thể ~/~
+```
