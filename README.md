@@ -11,6 +11,9 @@ Tổng Hợp Các Sách Về ML, DL, DS, AI,...
 
 ## Deep Leaning
 
+- [Đắm mình vào Học Sâu](https://drive.google.com/file/d/1WOuONLBIYST9eWFJi6BWLGxH8fIzVThL/view?usp=sharing)
+- [Probabilistic Machine Learning: An Introduction](https://drive.google.com/file/d/1hzZaEjp3v2tvnDFigxS7jtIFzTRiA3JG/view?usp=sharing)
+- [Deep Learning cơ bản](https://drive.google.com/file/d/1QTf4H1LDZnk2ZGqTIh5zKAWGKKrXR--r/view?usp=sharing)
 
 
 
