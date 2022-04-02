@@ -29,7 +29,7 @@ Tổng Hợp Các Sách Về ML, DL, DS, AI,...
 
 
 ## Python
-
+- [Introduction to Machine Learning with Python](https://drive.google.com/file/d/1RbK7RBn8iA48afuwTwV7HHmnDMWvylXi/view?usp=sharing)
 
 
 
